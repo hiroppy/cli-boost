@@ -35,7 +35,7 @@
     "chalk": "^2.4.1",
     "cli-table2": "^0.2.0",
     "commander": "^2.19.0",
-    "configstore": "^4.0.0",
+    "configstore": "^5.0.0",
     "inquirer": "^6.2.1",
     "ora": "^3.0.0",
     "rc": "^1.2.8"

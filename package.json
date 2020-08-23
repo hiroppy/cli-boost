@@ -29,14 +29,14 @@
     "@types/cli-table2": "^0.2.2",
     "@types/commander": "^2.12.2",
     "@types/configstore": "^4.0.0",
-    "@types/inquirer": "6.0.2",
+    "@types/inquirer": "7.3.1",
     "@types/ora": "^3.0.0",
     "@types/rc": "1.1.0",
     "chalk": "^2.4.1",
     "cli-table2": "^0.2.0",
     "commander": "^2.19.0",
     "configstore": "^4.0.0",
-    "inquirer": "^6.2.1",
+    "inquirer": "^7.0.0",
     "ora": "^3.0.0",
     "rc": "^1.2.8"
   }
